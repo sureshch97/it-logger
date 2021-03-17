@@ -1,0 +1,30 @@
+{
+  "logs": [
+    {
+      "id": 4,
+      "message": "Workstation 026 is up and running",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2019-05-31T19:57:35.544Z"
+    },
+    {
+      "id": 5,
+      "message": "problem in systems",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2021-03-10T17:05:48.780Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "firstName": "Ch",
+      "lastName": "Suresh",
+      "id": 2
+    }
+  ]
+}
